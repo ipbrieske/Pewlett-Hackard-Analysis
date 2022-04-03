@@ -1,0 +1,20 @@
+SELECT ce.emp_no,
+	ce.first_name,
+	ce.last_name,
+	di.dept_name
+INTO sales_team_info
+FROM current_emp as ce
+	INNER JOIN dept_info as di
+	ON (ce.emp_no = di.emp_no)
+WHERE dept_name = 'Sales'
+ORDER BY last_name;
+
+SELECT ri.emp_no, 
+	ri.first_name,
+	ri.last_name,
+	di.dept_name
+INTO mentor_list
+FROM retirement_info as ri
+	INNER JOIN dept_info as di
+	ON ri.emp_no = di.emp_no
+WHERE dept_name IN ('Sales', 'Development');
