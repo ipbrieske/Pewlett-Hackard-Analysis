@@ -8,24 +8,24 @@ Key findings:
 
 - 24% of Pewlett Hackard's employees are approaching retirement
 
-	- ![Total employees and retiring employees]()
+	- ![Total employees and retiring employees](https://github.com/ipbrieske/Pewlett-Hackard-Analysis/blob/main/Photos/percentRetiringEmployees.png)
 	- A large percentage of PH's workforce is coming up on retirement age according to PH's retirement threshold of employees born between 1961 and 1965. Determining which positions will need to be replaced and which positions could be condensed or retired in the coming years is of the utmost importance. 
 
 - 39% of retiring employees are Senior Engineers or Senior Staff
 	
-	-![Retiring positions]()
+	-![Retiring positions](https://github.com/ipbrieske/Pewlett-Hackard-Analysis/blob/main/Photos/retiringPositions.png)
 	- A bulk of employees leaving the company will be leaving as Senior Staff or Senior Engineers. These positions will require the largest number of incoming replacements, and therefore should be a priority when designing onboarding processes. Mentors in either of these positions would be in high demand. 
 
 - The mentorship eligibility pool should be widened to include younger Senior Engineers or older Engineers. 
 
-	- ![Mentorship Titles]()
+	- ![Mentorship Titles](https://github.com/ipbrieske/Pewlett-Hackard-Analysis/blob/main/Photos/mentorshipTitles.png)
 	- The current pool of eligible mentors may not meet the demand to replace Senior Engineers. To ensure the number of mentors is appropriate for the number of apprentices, some less experienced Senior Engineers or more tenured Engineers should be considered when building a mentorship program. 
 
 - 63% of Retirees will come from the Development, Production, and Sales departments
 
-	- ![Retirees per Department]()
+	- ![Retirees per Department](https://github.com/ipbrieske/Pewlett-Hackard-Analysis/blob/main/Photos/retirees_per_department.png)
 	- After filtering our data for retirees per department, we see that Development, Production, and Sales will lose the most employees. These departments will require the most consolidation and mentors to accomodate incoming replacements. Thankfully, these departments also have the widest pool of potential mentors to teach incoming hires. 
-	- ![Mentors per Department]()
+	- ![Mentors per Department](https://github.com/ipbrieske/Pewlett-Hackard-Analysis/blob/main/Photos/mentors_per_department.png)
 
 # Analysis 
 
